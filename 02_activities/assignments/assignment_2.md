@@ -33,7 +33,7 @@
       
       Next, the quantification of Covid-19 cases is ambiguous, making it difficult for viewers to accurately interpret the scale. The radial lines indicating case numbers (from 0 to 150K) are not intuitively mapped onto the curved data path. This makes it hard to determine when thresholds, such as 150,000 cases, are surpassed.
       
-      Finally, the "Time Dilation" graph presents significant accessibility issues. Its complex, non-linear layout is disorienting and difficult to track for individuals with dyslexia, certain visual processing disorders, or even just general cognitive load issues. Additionally, the non-standard visual would pose challenges for screen readers, effectively excluding visually impaired users from accessing the vital public health data it attempts to convey. In essence, the graph prioritizes a misguided attempt at artistic novelty over the fundamental principles of clear, accurate, and accessible data communication.
+      Finally, the "Time Dilation" graph presents significant accessibility issues. Its complex, non-linear layout is disorienting and difficult to track for individuals with dyslexia, certain visual processing disorders, or even just general cognitive load issues. Additionally, the non-standard visual would pose challenges for screen readers, effectively excluding visually impaired users from accessing the vital public health data it attempts to convey. In essence, the graph prioritizes a misguided attempt at artistic novelty over the fundamental principles of clear, accurate, and accessible data communication..
 
 
       ```
